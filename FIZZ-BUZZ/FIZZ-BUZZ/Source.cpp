@@ -7,9 +7,17 @@ int main() {
 x=1;
 y=1;
 n=1;
-z=1;
+z=10;
 
-
-	if ( n-x=0){
+while (n > z){
+	if (n%x,y==0){
+		cout << "F" << endl;
+		
 	}
+	else{
+		cout << n << endl;
+	}
+	n++;
+}
+system("pause");
 }
